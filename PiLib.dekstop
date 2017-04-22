@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Pi-Lib Shortcut
+Comment=I launch Pi-Lib software
+Icon=D:\Unief\Digital Humanities\Thesis\Definitieve software\Pi_Lib/MEDIA/icon.xpm
+Exec=python D:\Unief\Digital Humanities\Thesis\Definitieve software\Pi_Lib/Pi-Lib.pyw
+Type=Application
+StartupNotify=false
