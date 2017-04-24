@@ -36,7 +36,7 @@ import webbrowser
 import time
 import platform
 import base64
-absdir = g = os.path.dirname(sys.argv[0])
+absdir = os.path.dirname(sys.argv[0])
 #print absdir
 reldirwide = absdir + "/Configuration/libwide.ini"
 reldirdev = absdir + "/Configuration/device.ini"
